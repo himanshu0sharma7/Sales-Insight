@@ -8,7 +8,7 @@ To unlock Sales Insights that are not visible before to the sales team for decis
 
 
 Solution
-I have made two Dashboards named - Revenue Analysis and Profit Analysis for tracking the profit and revenue of the company.
+I have created a Dashboard for revenue analysis by market which also shows the Top 5 Products and Customers.
 The Insights contains -
 •	Revenue by Markets
 •	Sales Quantity by Markets
